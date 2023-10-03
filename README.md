@@ -26,7 +26,7 @@ You can contact me on:
 
 <details>
  <summary><h3>👨‍💻 Fernando's Coding Journey</h3></summary>
-I started my coding journey not long ago, my academic experience includes web development with ASP.Net and Bootstrap, database handling with MySQL, and automation development through embedded systems with a focus on Microcontrollers. I keep myself in constant learning, and in recent months, I have been studying Data Science with Python.
+I started my coding journey not long ago, my academic experience includes web development with ASP.Net and Bootstrap, database handling with MySQL, and automation development through embedded systems with a focus on Microcontrollers. 
 
 #
 
