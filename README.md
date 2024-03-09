@@ -36,5 +36,5 @@ I started my coding journey not long ago, my academic experience includes web de
   <!-- Social Links -->
 <a href="https://www.youtube.com/@ferrnandico" target="_blank"><img src="https://img.shields.io/badge/@ferrnandico-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>   
 <a href="https://instagram.com/ferrnandico" target="_blank"><img  alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/id/baldvr_the_dungeon_master" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/otzi_the_dungeon_master" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
