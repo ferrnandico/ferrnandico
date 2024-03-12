@@ -27,6 +27,7 @@ You can contact me on:
 <details>
 <summary><h3>👨‍💻 Fernando's Coding Journey</h3></summary>
 Systems Analyst and Programmer, graduated in Systems Analysis and Development (2023). Since then, I have been enhancing my skills in the technological field.
+   
 My academic experience includes web development with ASP.Net and Bootstrap, database handling with MySQL, and automation development through embedded systems with a focus on Microcontrollers.
 
 #
