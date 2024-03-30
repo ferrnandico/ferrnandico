@@ -1,5 +1,8 @@
 <h1><img alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdjYjNobjhkdmEyM3VubHV2MXZjbGY0bWlvbWt4dzNiZ2ZmNWtkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4JtXt9i56Wp6U/giphy.gif" width="50"> Hello there!</h1> 
-I'm a indie dev! :)
+
+Systems Analyst and Programmer, graduated in Systems Analysis and Development (2023). 
+   
+My academic experience includes web development with ASP.Net and Bootstrap, database handling with MySQL, and automation development through embedded systems with a focus on Microcontrollers.
 
 ---
 You can contact me on:
@@ -21,14 +24,6 @@ You can contact me on:
 <img  align="center" alt="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
 <img  align="center" alt="Arduino" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />        
 </div>
-
-#
-
-<details>
-<summary><h3>👨‍💻 Fernando's Coding Journey</h3></summary>
-Systems Analyst and Programmer, graduated in Systems Analysis and Development (2023). Since then, I have been enhancing my skills in the technological field.
-   
-My academic experience includes web development with ASP.Net and Bootstrap, database handling with MySQL, and automation development through embedded systems with a focus on Microcontrollers.
 
 #
 
